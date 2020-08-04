@@ -53,7 +53,7 @@
         "@types/through2": "latest",
         "@types/travis-fold": "latest",
         "@types/xml2js": "^0.4.0",
-        "browser-resolve": "^1.11.2",
+        "browser-resolve": "^2.0.0",
         "browserify": "latest",
         "chai": "latest",
         "chalk": "latest",
